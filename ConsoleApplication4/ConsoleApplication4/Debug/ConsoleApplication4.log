@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\андрей.vaio\google диск\intel\consoleapplication4\consoleapplication4\source.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\андрей.vaio\google диск\intel\consoleapplication4\consoleapplication4\source.cpp(124): warning C4715: 'JPEG_Decod_Encod::rw_file': not all control paths return a value
+  jpeg.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+Source.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  ConsoleApplication4.vcxproj -> C:\Users\Андрей.VAIO\Google Диск\Intel\ConsoleApplication4\Debug\ConsoleApplication4.exe
+  ConsoleApplication4.vcxproj -> C:\Users\Андрей.VAIO\Google Диск\Intel\ConsoleApplication4\Debug\ConsoleApplication4.pdb (Full PDB)

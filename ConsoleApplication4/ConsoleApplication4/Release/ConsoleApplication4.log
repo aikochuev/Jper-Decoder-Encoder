@@ -1,0 +1,8 @@
+﻿  Source.cpp
+Source.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+c:\users\андрей.vaio\google диск\intel\consoleapplication4\consoleapplication4\source.cpp(124): warning C4715: 'JPEG_Decod_Encod::rw_file': not all control paths return a value
+  All 430 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication4.vcxproj -> C:\Users\Андрей.VAIO\Google Диск\Intel\ConsoleApplication4\Release\ConsoleApplication4.exe
+  ConsoleApplication4.vcxproj -> C:\Users\Андрей.VAIO\Google Диск\Intel\ConsoleApplication4\Release\ConsoleApplication4.pdb (Full PDB)
